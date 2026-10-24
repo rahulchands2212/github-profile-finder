@@ -40,7 +40,7 @@ async function fetchdata() {
     }
   } catch (err) {
     alert(err.message);
-    window.location.href = "./index.html";
+    window.location.href = "../homePage/index.html";
   }
 
   console.log(data);
