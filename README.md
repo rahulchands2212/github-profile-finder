@@ -22,20 +22,11 @@ A responsive web application to search GitHub users and view their public profil
 
 ### Home Page
 
-```
-### Home Page
-
 ![Home Page](./screenshots/home.png)
 
-```
-
-### Profile Page
-
-```
 ### Profile Page
 
 ![Profile Page](./screenshots/profile.png)
-```
 
 ## How to Use
 
