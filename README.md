@@ -2,6 +2,10 @@
 
 A responsive web application to search GitHub users and view their public profile information using the GitHub REST API.
 
+## 🚀 Live Demo
+
+[View GitHub Profile Finder](https://github-profile-finder-two-kappa.vercel.app/homePage/index.html)
+
 ## Features
 
 - Search GitHub users by username
